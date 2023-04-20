@@ -1,0 +1,2 @@
+put list of folders (and files) to backup here
+one item per line
